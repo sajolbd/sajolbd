@@ -1,4 +1,4 @@
-৭I am working with OxR I-Tech Solution as application development coordinator having 1+ years of experience in software engineering(Oddo).I love to write code which  is an  art.l love to improve my technical skills as well as personal competencies. 
+I am working with OxR I-Tech Solution as application development coordinator having 1+ years of experience in software engineering(Oddo).I love to write code which  is an  art.l love to improve my technical skills as well as personal competencies. 
 
 I am experted  in....
 
