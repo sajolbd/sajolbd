@@ -10,10 +10,8 @@ Programming languages i know :
 
 I am experted  in....
 
-- oddo Development 
 - ReactJs
 - nodeJs
-- dot net
 - Data Structures and Algorithms
 - Programming Contest 
 - Solve problems in online judges 
