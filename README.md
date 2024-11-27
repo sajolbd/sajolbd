@@ -10,6 +10,7 @@ Programming languages i know :
 
 I am experted  in....
 
+- Bootstrap 5
 - ReactJs
 - nodeJs
 - Data Structures and Algorithms
