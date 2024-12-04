@@ -5,7 +5,7 @@ Programming languages i know :
 - c
 - c++
 - c#
-- javaacript
+- javascript
 - python
 
 I am experted  in....
