@@ -2,11 +2,11 @@ I am working with OxR I-Tech Solution as application development coordinator hav
 
 Programming languages i know :
 
-- c
-- c++
-- c#
-- javascript
-- python
+- C
+- C++
+- C#
+- Javascript
+- Python
 
 I am experted  in....
 
